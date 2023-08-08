@@ -1,0 +1,18 @@
+C:\Users\king\OneDrive\Documents\2023 SUMMER\Win Prog\week 1\HW1 Calculator\obj\Debug\net6.0-windows\HW1 Calculator.csproj.AssemblyReference.cache
+C:\Users\king\OneDrive\Documents\2023 SUMMER\Win Prog\week 1\HW1 Calculator\obj\Debug\net6.0-windows\HW1_Calculator.Form1.resources
+C:\Users\king\OneDrive\Documents\2023 SUMMER\Win Prog\week 1\HW1 Calculator\obj\Debug\net6.0-windows\HW1 Calculator.csproj.GenerateResource.cache
+C:\Users\king\OneDrive\Documents\2023 SUMMER\Win Prog\week 1\HW1 Calculator\obj\Debug\net6.0-windows\HW1 Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\king\OneDrive\Documents\2023 SUMMER\Win Prog\week 1\HW1 Calculator\obj\Debug\net6.0-windows\HW1 Calculator.AssemblyInfoInputs.cache
+C:\Users\king\OneDrive\Documents\2023 SUMMER\Win Prog\week 1\HW1 Calculator\obj\Debug\net6.0-windows\HW1 Calculator.AssemblyInfo.cs
+C:\Users\king\OneDrive\Documents\2023 SUMMER\Win Prog\week 1\HW1 Calculator\obj\Debug\net6.0-windows\HW1 Calculator.csproj.CoreCompileInputs.cache
+C:\Users\king\OneDrive\Documents\2023 SUMMER\Win Prog\week 1\HW1 Calculator\bin\Debug\net6.0-windows\HW1 Calculator.exe
+C:\Users\king\OneDrive\Documents\2023 SUMMER\Win Prog\week 1\HW1 Calculator\bin\Debug\net6.0-windows\HW1 Calculator.deps.json
+C:\Users\king\OneDrive\Documents\2023 SUMMER\Win Prog\week 1\HW1 Calculator\bin\Debug\net6.0-windows\HW1 Calculator.runtimeconfig.json
+C:\Users\king\OneDrive\Documents\2023 SUMMER\Win Prog\week 1\HW1 Calculator\bin\Debug\net6.0-windows\HW1 Calculator.dll
+C:\Users\king\OneDrive\Documents\2023 SUMMER\Win Prog\week 1\HW1 Calculator\bin\Debug\net6.0-windows\HW1 Calculator.pdb
+C:\Users\king\OneDrive\Documents\2023 SUMMER\Win Prog\week 1\HW1 Calculator\obj\Debug\net6.0-windows\HW1 Calculator.dll
+C:\Users\king\OneDrive\Documents\2023 SUMMER\Win Prog\week 1\HW1 Calculator\obj\Debug\net6.0-windows\refint\HW1 Calculator.dll
+C:\Users\king\OneDrive\Documents\2023 SUMMER\Win Prog\week 1\HW1 Calculator\obj\Debug\net6.0-windows\HW1 Calculator.pdb
+C:\Users\king\OneDrive\Documents\2023 SUMMER\Win Prog\week 1\HW1 Calculator\obj\Debug\net6.0-windows\HW1 Calculator.genruntimeconfig.cache
+C:\Users\king\OneDrive\Documents\2023 SUMMER\Win Prog\week 1\HW1 Calculator\obj\Debug\net6.0-windows\ref\HW1 Calculator.dll
+C:\Users\king\OneDrive\Documents\2023 SUMMER\Win Prog\week 1\HW1 Calculator\obj\Debug\net6.0-windows\HW1_Calculator.Properties.Resources.resources
